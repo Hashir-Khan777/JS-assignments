@@ -557,6 +557,9 @@
 // var stuarr = stuarr.sort(function (a, b) { return a - b });
 // document.write("Ordered Scores Of Students: " + stuarr)
 // task 11
+// var cities = ["Karachi", "Islamabad", "Lahore", "Hydrabad"]
+// var selected = cities.splice(0, 3)
+// var selectedCities = [selected]
 // task 12
 // var strarr = ["This", "is", "my", "cat"];
 // var strarr = strarr.join(" ")
