@@ -415,6 +415,15 @@
 
 // chapter 12-13
 // task 1
+// var alphabet = prompt("Enter alphabet", "alphabet...")
+// var ASCII = alphabet.charCodeAt()
+// if (ASCII >= 65 && ASCII <= 90) {
+// alert("It is a capital letter")
+// } else if (ASCII >= 97 && ASCII <= 9122){
+// alert("It is a small letter")
+// } else {
+// alert("Please enter a alphabet")
+// }
 // task 2
 // var int1 = +prompt("Enter First Intiger", "Enter Intiger");
 // var int2 = +prompt("Enter Second Intiger", "Enter Intiger");
